@@ -1,0 +1,6 @@
+n1 = float(input('Digite o primeiro numero: '))
+n2 = float(input('Digite o segundo numero: '))
+print(f'A soma dos numeros {n1} e {n2} é {n1 + n2}')
+print(f'A subtração dos numeros {n1} e {n2} é {n1 - n2}')
+print(f'A multiplicação dos numeros {n1} e {n2} é {n1 * n2}')
+print(f'A divisão dos numeros {n1} e {n2} é {n1 / n2}')
